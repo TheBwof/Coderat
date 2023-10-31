@@ -1,10 +1,9 @@
-# ThisIsNotRat
+# coderat
 [![HitCount](https://hits.dwyl.com/realb3y/RealBey/ThisIsNotRat.svg?style=flat-square)](http://hits.dwyl.com/realb3y/RealBey/ThisIsNotRat)
 
 
 <p align="center">
 👀Control your windows computeur from telegram 👀
-
 
 <a href="https://ibb.co/SRWX61h"><img src="https://i.ibb.co/J50Rcbf/ideogram-15.jpg" alt="ideogram-15" border="0"></a>
 
@@ -27,35 +26,38 @@ python tinar.py
 
 📣Commands📣
 
-/screen to capture screenshot.🖵
+/screen (to capture screenshot.)🖵
 
-/sys to get system informations.ℹ️
+/sys (to get system informations.)ℹ️
 
-/ip to get ip adress.📟
+/ip (to get ip adress.)📟
 
-/cd to navigate in folders.🗂️
+/cd (to navigate in folders.)🗂️
 
-/ls for list élements.🗂️
+/ls (for list élements.)🗂️
 
-/upload [path] to get file.📤
+/upload ([path] to get file.)📤
 
-/crypt [path] for crypt folders files. 🔒
+/crypt ([path] for crypt folders files.) 🔒
 
-/decrypt [path] for decrypt files.🔓
+/decrypt ([path] for decrypt files.)🔓
 
-/webcam to get webcam capture.📷
+/webcam (to get webcam capture.)📷
 
-/lock for lock the session.🔑
+/lock (for lock the session.)🔑
 
-/clipoard to get clipboard.📋
+/clipoard (to get clipboard.)📋
 
-/shell for pro.🖬
+/shell (for pro.)🖬
 
-/wifi to get wifi password.📶
+/wifi (to get wifi password.)📶
 
-/speech [hi]  to speech tts.💬
+/speech ([hi]  to speech tts.)💬
 
 /shutdown  🙅
+
+<span style="color: green;"><b>Please note that:</b> you need to combine this code with other code or run this code to ensure that it needs to run Python code.</span>
+
 
 
 DEMO:
